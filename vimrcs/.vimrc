@@ -12,7 +12,7 @@ Plug 'tpope/vim-eunuch'
 call plug#end()
 
 let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme='solarized'
+let g:airline_theme='base16'
 " air-line
 let g:airline_powerline_fonts = 1
 
